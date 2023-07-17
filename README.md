@@ -1,1 +1,7 @@
-# WoW Vault
+---
+layout: home
+title: HOME
+permalink: /
+---
+
+Hello
